@@ -22,7 +22,6 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * Catalysis-Hub. org, an open electronic structure database for surface reactions (**Scientific data, 2019**) [[paper](https://www.nature.com/articles/s41597-019-0081-y)]
 * Open catalyst 2020 (OC20) dataset and community challenges (**Acs Catalysis, 2021**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.0c04525)]
 * The Open Catalyst 2022 (OC22) dataset and challenges for oxide electrocatalysts (**ACS Catalysis, 2023**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.2c05426)]
-* 
 
 ### Classical Methods in Catalysts
 * An adaptive machine learning strategy for accelerating discovery of perovskite electrocatalysts (**ACS Catalysis, 2020**) [[paper](https://pubs.acs.org/doi/pdf/10.1021/acscatal.9b05248)]
