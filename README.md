@@ -10,7 +10,6 @@ A Survey for AI-Empowered Catalysts Discovery: From Classical Machine Learning A
   - [Generative and Decision Learning-based methods](#generative)
   - [Graph neural network-based methods](#Graph)
   - [Large language model-based methods](#LLM)
-classical-based methods, Generative and Decision Learning-based methods, graph neural network-based methods, sequential neural network-based methods, and large language model-based methods.
 
 
 <a name="Publications" />
@@ -18,3 +17,6 @@ classical-based methods, Generative and Decision Learning-based methods, graph n
 ## Papers
 
 <a name="classical" />
+
+### Classical Methods in Catalysts
+* An adaptive machine learning strategy for accelerating discovery of perovskite electrocatalysts (**ACS Catalysis, 2020**) [[paper](https://pubs.acs.org/doi/pdf/10.1021/acscatal.9b05248)]
