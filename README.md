@@ -17,9 +17,8 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * The Open catalyst 2020 (OC20) dataset and community challenges (**Acs Catalysis, 2021**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.0c04525)]
 * The Open Catalyst 2022 (OC22) dataset and challenges for oxide electrocatalysts (**ACS Catalysis, 2023**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.2c05426)]
 
-## Related Research
+## Surveys
 * Search for Catalysts by Inverse Design: Artificial Intelligence, Mountain Climbers, and Alchemists (**Chemical Reviews, 2019**) [[paper](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.8b00759)]
-* An Introduction to Electrocatalyst Design using Machine Learning for Renewable Energy Storage (**arXiv, 2020**) [[paper](https://arxiv.org/abs/2010.09435)]
 * High-throughput experimentation meets artificial intelligence - a new pathway to catalyst discovery (**Physical Chemistry Chemical Physics, 2020**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp00972e)]
 * Automated in Silico Design of Homogeneous Catalysts (**ACS Catalysis, 2020**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.9b04952)]
 * Data-Driven Design of Electrocatalysts - Principle, Progress, and Perspective (**Journal of Materials Chemistry A, 2023**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09278f/unauth)]
