@@ -22,6 +22,7 @@ A curated list of papers and resources about large language models (LLMs) on gra
 ## Papers
 
 <a name="classical" />
+
 ### Classical Methods in Catalysts
 * An adaptive machine learning strategy for accelerating discovery of perovskite electrocatalysts (**ACS Catalysis, 2020**) [[paper](https://pubs.acs.org/doi/pdf/10.1021/acscatal.9b05248)]
 * Simple descriptor derived from symbolic regression accelerating the discovery of new perovskite catalysts (**Nature communications, 2020**) [[paper](https://www.nature.com/articles/s41467-020-17263-9)]
