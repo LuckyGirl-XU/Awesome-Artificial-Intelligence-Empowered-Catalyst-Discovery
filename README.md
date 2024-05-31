@@ -20,6 +20,7 @@ A curated list of papers and resources about large language models (LLMs) on gra
 <a name="Publications" />
   
 ## Papers
+
 <a name="classical" />
 ### Classical Methods in Catalysts
 * An adaptive machine learning strategy for accelerating discovery of perovskite electrocatalysts (**ACS Catalysis, 2020**) [[paper](https://pubs.acs.org/doi/pdf/10.1021/acscatal.9b05248)]
@@ -33,6 +34,7 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * Machine-learning-accelerated design of high-performance platinum intermetallic nanoparticle fuel cell catalysts(**Nature Communications, 2024**) [[paper](https://www.nature.com/articles/s41467-023-44674-1)]
 
 <a name="generative" />
+
 ### Generative and Reinforcement Learning in Catalysts
 * Navigating through the maze of homogeneous catalyst design with machine learning (**Trends in Chemistry, 2021**) [[paper](https://www.cell.com/trends/chemistry/abstract/S2589-5974(20)30316-6)]
 * Heterogeneous catalyst design by generative adversarial network and first-principles based microkinetics (**Scientific Reports, 2022**) [[paper](https://www.nature.com/articles/s41598-022-15586-9)]
@@ -40,6 +42,7 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * Designing catalysts with deep generative models and computational data. A case study for Suzuki cross coupling reactions (**Digital discovery, 2023**) [[paper](https://pubs.rsc.org/en/content/articlehtml/2023/dd/d2dd00125j)]
 
 <a name="Graph" />
+
 ### Graph Neural Networks in Catalysts
 * Gemnet: Universal directional graph neural networks for molecules (**NeurIPS, 2021**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/35cf8659cfcb13224cbd47863a34fc58-Abstract.html)]
 * Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations (**ICLR, 2022**) [[paper](https://arxiv.org/abs/2203.09697)]
@@ -54,6 +57,7 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * PhAST: Physics-Aware, Scalable, and Task-Specific GNNs for Accelerated Catalyst Design (**JMLR, 2024**) [[paper](https://www.jmlr.org/papers/volume25/23-0680/23-0680.pdf)]
 
 <a name="LLM" />
+
 ### Large Language Models in Catalysts
 * Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design (**EMNLP, 2023**) [[paper](https://arxiv.org/abs/2310.14420)]
 * Artificial Intelligence (AI) Workflow for Catalyst Design and Optimization (**Industrial & Engineering Chemistry Research, 2023**)[[paper](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c02520)]
