@@ -7,22 +7,20 @@ A curated list of papers and resources about large language models (LLMs) on gra
 
 - [Four Main Categories](#Publications)
   - [Classical-based methods](#classical)
-  - [Generative and Decision Learning-based methods](#generative)
+  - [Generative and Reinforcement Learning-based methods](#generative)
   - [Graph neural network-based methods](#Graph)
   - [Large language model-based methods](#LLM)
 
 
-<a name="Publications" />
-
-## Papers
-
-<a name="classical" />
-
-### Datasets
+## Datasets
 * Catalysis-Hub. org, an open electronic structure database for surface reactions (**Scientific data, 2019**) [[paper](https://www.nature.com/articles/s41597-019-0081-y)]
 * The Open catalyst 2020 (OC20) dataset and community challenges (**Acs Catalysis, 2021**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.0c04525)]
 * The Open Catalyst 2022 (OC22) dataset and challenges for oxide electrocatalysts (**ACS Catalysis, 2023**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.2c05426)]
-
+  
+<a name="Publications" />
+  
+## Papers
+<a name="classical" />
 ### Classical Methods in Catalysts
 * An adaptive machine learning strategy for accelerating discovery of perovskite electrocatalysts (**ACS Catalysis, 2020**) [[paper](https://pubs.acs.org/doi/pdf/10.1021/acscatal.9b05248)]
 * Simple descriptor derived from symbolic regression accelerating the discovery of new perovskite catalysts (**Nature communications, 2020**) [[paper](https://www.nature.com/articles/s41467-020-17263-9)]
@@ -34,13 +32,14 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * Data-driven discovery of electrocatalysts for CO2 reduction using active motifs-based machine learning (**Nature Communications, 2023**) [[paper](https://www.nature.com/articles/s41467-023-43118-0)]
 * Machine-learning-accelerated design of high-performance platinum intermetallic nanoparticle fuel cell catalysts(**Nature Communications, 2024**) [[paper](https://www.nature.com/articles/s41467-023-44674-1)]
 
-
-### Generative and Decision Learning in Catalysts
+<a name="generative" />
+### Generative and Reinforcement Learning in Catalysts
 * Navigating through the maze of homogeneous catalyst design with machine learning (**Trends in Chemistry, 2021**) [[paper](https://www.cell.com/trends/chemistry/abstract/S2589-5974(20)30316-6)]
 * Heterogeneous catalyst design by generative adversarial network and first-principles based microkinetics (**Scientific Reports, 2022**) [[paper](https://www.nature.com/articles/s41598-022-15586-9)]
 * AdsorbRL: Deep Multi-Objective Reinforcement Learning for Inverse Catalysts Design. (**NeurIPS, 2023**) [[paper](https://arxiv.org/abs/2312.02308)]
 * Designing catalysts with deep generative models and computational data. A case study for Suzuki cross coupling reactions (**Digital discovery, 2023**) [[paper](https://pubs.rsc.org/en/content/articlehtml/2023/dd/d2dd00125j)]
 
+<a name="Graph" />
 ### Graph Neural Networks in Catalysts
 * Gemnet: Universal directional graph neural networks for molecules (**NeurIPS, 2021**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/35cf8659cfcb13224cbd47863a34fc58-Abstract.html)]
 * Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations (**ICLR, 2022**) [[paper](https://arxiv.org/abs/2203.09697)]
@@ -54,6 +53,7 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * Towards Combinatorial Generalization for Catalysts: A Kohn-Sham Charge-Density Approach (**NeurIPS, 2024**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/be82bb4bf8333107b0fe430e1017831a-Abstract-Conference.html)]
 * PhAST: Physics-Aware, Scalable, and Task-Specific GNNs for Accelerated Catalyst Design (**JMLR, 2024**) [[paper](https://www.jmlr.org/papers/volume25/23-0680/23-0680.pdf)]
 
+<a name="LLM" />
 ### Large Language Models in Catalysts
 * Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design (**EMNLP, 2023**) [[paper](https://arxiv.org/abs/2310.14420)]
 * Artificial Intelligence (AI) Workflow for Catalyst Design and Optimization (**Industrial & Engineering Chemistry Research, 2023**)[[paper](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c02520)]
