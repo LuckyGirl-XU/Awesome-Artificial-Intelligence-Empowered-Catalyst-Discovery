@@ -1,4 +1,4 @@
-# Awesome-Artificial-Intelligence-Empowered-Catalysts-Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Artificial-Intelligence-Empowered-Catalyst-Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of papers and resources about large language models (LLMs) on graphs based on our survey paper: 
 **A Survey for AI-Empowered Catalysts Discovery: From Classical Machine Learning Approaches to Large Language Models**
