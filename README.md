@@ -97,6 +97,22 @@ Table 1 in our survey paper.
 <a name="Others" />
 
 ## Other Related Works
+<!-- Molecular Generation -->
+* Constrained Graph Variational Autoencoders for Molecule Design (**NeurIPS, 2018**) [[paper](https://arxiv.org/abs/1805.09076)]
+* GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation (**SIGKDD, 2020**) [[paper](https://arxiv.org/abs/2001.09382)]
+* MoFlow: An Invertible Flow Model for Generating Molecular Graphs (**ICLR, 2020**) [[paper](https://arxiv.org/abs/2006.10137)]
+* Multi-objective molecule generation using interpretable substructures (**ICML, 2020**) [[paper](https://arxiv.org/abs/2002.03244)]
+* E(n) Equivariant Normalizing Flows (**NeurIPS, 2021**) [[paper](https://arxiv.org/abs/2105.09016)]
+* A 3D Generative Model for Structure-Based Drug Design (**NeurIPS, 2021**) [[paper](https://arxiv.org/abs/2203.10446)]
+* Learning Neural Generative Dynamics for Molecular Conformation Generation (**ICLR, 2021**) [[paper](https://arxiv.org/abs/2102.10240)]
+* Equivariant Diffusion for Molecule Generation in 3D (**ICML, 2022**) [[paper](https://arxiv.org/abs/2203.17003)]
+* Generating 3D Molecules for Target Protein Binding (**ICML, 2022**) [[paper](https://arxiv.org/abs/2204.09410)]
+* GeoLDM: Geometric Latent Diffusion Models for 3D Molecule Generation (**ICML, 2023**) [[paper](https://arxiv.org/abs/2305.01140)]
+<!-- Catalytic Reaction -->
+* Optimization of base-catalyzed ethanolysis of sunflower oil by regression and artificial neural network models (**Fuel processing technology, 2013**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0378382013001422)]
+* Optimization of ultrasound-assisted base-catalyzed methanolysis of sunflower oil using response surface and artifical neural network methodologies (**Chemical Engineering Journal, 2013**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1385894712014398)]
+* Performance evaluation of artificial neural network coupled with generic algorithm and response surface methodology in modeling and optimization of biodiesel production process parameters from shea tree (Vitellaria paradoxa) nut butter (**Renewable Energy, 2015**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0960148114007794)]
+* Artificial neural network method modeling of microwave-assisted esterification of PFAD over mesoporous TiO2‒ZnO catalyst (**Renewable Energy, 2022**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0960148122001331)]
 
 ## Contribution
 
