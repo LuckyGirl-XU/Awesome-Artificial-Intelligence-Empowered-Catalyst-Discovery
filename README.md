@@ -25,10 +25,10 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * Bridging the complexity gap in computational heterogeneous catalysis with machine learning (**Nature Catalysis, 2023**) [[paper]([https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09278f/unauth](https://www.nature.com/articles/s41929-023-00911-w))]
 
 ## Open Platform
-* [Open Catalyst Project](https://opencatalystproject.org/)
-* [ASE](https://gitlab.com/ase/ase)
-* [LCMD](https://www.epfl.ch/labs/lcmd/)
-* [RDKit](https://github.com/rdkit/rdkit)
+* [Open Catalyst Project](https://opencatalystproject.org/): Provide datasets, baseline models, and a public leaderboard
+* [ASE](https://gitlab.com/ase/ase): An open-source package for setting up, manipulating, running, visualizing, and analyzing atomistic simulations
+* [LCMD](https://www.epfl.ch/labs/lcmd/): A platform that aggregates tools and databases for the digital optimization and discovery of catalysts
+* [RDKit](https://github.com/rdkit/rdkit): Offer a comprehensive suite of tools for cheminformatics, supporting both 2D and 3D molecular operations
 
 <a name="Publications" />
   
