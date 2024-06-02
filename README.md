@@ -24,8 +24,8 @@ A curated list of papers and resources about our survey paper:
 * Data-Driven Design of Electrocatalysts - Principle, Progress, and Perspective (**Journal of Materials Chemistry A, 2023**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09278f/unauth)]
 * Bridging the complexity gap in computational heterogeneous catalysis with machine learning (**Nature Catalysis, 2023**) [[paper]([https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09278f/unauth](https://www.nature.com/articles/s41929-023-00911-w))]
 
-### <img src="./fig/star.svg" width="15" height="15" /> A brief summary of related surveys
-Table 1 in our survey paper [A Survey for AI-Empowered Catalyst Discovery: From Classical Machine Learning Approaches to Large Language Models].
+### <img src="./fig/star.svg" width="15" height="15" /> A Brief Summary of Related Surveys
+Table 1 in our survey paper.
 <p align="center">
     <img src="./fig/comparison.png" width="90%" style="align:center;"/>
 </p>
