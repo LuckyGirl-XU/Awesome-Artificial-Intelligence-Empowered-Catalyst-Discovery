@@ -5,17 +5,24 @@ A curated list of papers and resources about our survey paper:
 
 ## Contents
 
+- [Datasets](#data)
+- [Existing Surveys in Catalyst Discovery](#surveys)
+- [Open Platforms](#platforms)
 - [Four Main Categories](#Publications)
   - [Classical-based methods](#classical)
   - [Generative and Reinforcement Learning-based methods](#generative)
   - [Graph neural network-based methods](#Graph)
   - [Large language model-based methods](#LLM)
+- [Other Related Works](#Others)
 
+<a name="data" />
 
 ## Datasets
 * Catalysis-Hub. org, an open electronic structure database for surface reactions (**Scientific data, 2019**) [[paper](https://www.nature.com/articles/s41597-019-0081-y)]
 * The Open catalyst 2020 (OC20) dataset and community challenges (**Acs Catalysis, 2021**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.0c04525)]
 * The Open Catalyst 2022 (OC22) dataset and challenges for oxide electrocatalysts (**ACS Catalysis, 2023**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.2c05426)]
+
+<a name="surveys" />
 
 ## Existing Surveys in Catalyst Discovery
 * Search for Catalysts by Inverse Design: Artificial Intelligence, Mountain Climbers, and Alchemists (**Chemical Reviews, 2019**) [[paper](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.8b00759)]
@@ -30,6 +37,7 @@ Table 1 in our survey paper.
     <img src="./fig/comparison.png" width="90%" style="align:center;"/>
 </p>
 
+<a name="platforms" />
 
 ## Open Platforms
 * [Open Catalyst Project](https://opencatalystproject.org/): Provide datasets, baseline models, and a public leaderboard
@@ -86,6 +94,7 @@ Table 1 in our survey paper.
 * Augmenting large language models with chemistry tools (**Nature Machine Intelligence, 2024**) [[paper](https://www.nature.com/articles/s42256-024-00832-8)]
 * CO2 Reduction beyond Copper-Based Catalysts: A Natural Language Processing Review from the Scientific Literature (**ACS Sustainable Chemistry & Engineering, 2024**) [[paper](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.3c06920)]
 
+<a name="Others" />
 ## Other Related Works
 
 ## Contribution
