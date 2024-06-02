@@ -1,7 +1,7 @@
 # Awesome-Artificial-Intelligence-Empowered-Catalyst-Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of papers and resources about large language models (LLMs) on graphs based on our survey paper: 
-**A Survey for AI-Empowered Catalysts Discovery: From Classical Machine Learning Approaches to Large Language Models**
+**A Survey for AI-Empowered Catalyst Discovery: From Classical Machine Learning Approaches to Large Language Models**
 
 ## Contents
 
@@ -25,7 +25,7 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * Bridging the complexity gap in computational heterogeneous catalysis with machine learning (**Nature Catalysis, 2023**) [[paper]([https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09278f/unauth](https://www.nature.com/articles/s41929-023-00911-w))]
 
 
-## Open Platform
+## Open Platforms
 * [Open Catalyst Project](https://opencatalystproject.org/): Provide datasets, baseline models, and a public leaderboard
 * [ASE](https://gitlab.com/ase/ase): An open-source package for setting up, manipulating, running, visualizing, and analyzing atomistic simulations
 * [LCMD](https://www.epfl.ch/labs/lcmd/): A platform that aggregates tools and databases for the digital optimization and discovery of catalysts
@@ -33,7 +33,7 @@ A curated list of papers and resources about large language models (LLMs) on gra
 
 <a name="Publications" />
   
-## Papers
+## Existing Works in both Homogeneous and Heterogeneous Catalyst Discovery (with either Direct or Inverse designs)
 
 <a name="classical" />
 
