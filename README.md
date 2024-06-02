@@ -17,12 +17,13 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * The Open catalyst 2020 (OC20) dataset and community challenges (**Acs Catalysis, 2021**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.0c04525)]
 * The Open Catalyst 2022 (OC22) dataset and challenges for oxide electrocatalysts (**ACS Catalysis, 2023**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.2c05426)]
 
-## Surveys
+## Existing Surveys in Catalyst Discovery
 * Search for Catalysts by Inverse Design: Artificial Intelligence, Mountain Climbers, and Alchemists (**Chemical Reviews, 2019**) [[paper](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.8b00759)]
 * High-throughput experimentation meets artificial intelligence - a new pathway to catalyst discovery (**Physical Chemistry Chemical Physics, 2020**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp00972e)]
 * Automated in Silico Design of Homogeneous Catalysts (**ACS Catalysis, 2020**) [[paper](https://pubs.acs.org/doi/10.1021/acscatal.9b04952)]
 * Data-Driven Design of Electrocatalysts - Principle, Progress, and Perspective (**Journal of Materials Chemistry A, 2023**) [[paper](https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09278f/unauth)]
 * Bridging the complexity gap in computational heterogeneous catalysis with machine learning (**Nature Catalysis, 2023**) [[paper]([https://pubs.rsc.org/en/content/articlelanding/2023/ta/d2ta09278f/unauth](https://www.nature.com/articles/s41929-023-00911-w))]
+
 
 ## Open Platform
 * [Open Catalyst Project](https://opencatalystproject.org/): Provide datasets, baseline models, and a public leaderboard
@@ -78,3 +79,5 @@ A curated list of papers and resources about large language models (LLMs) on gra
 * Catalyst Energy Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models (**ACS Catalysis, 2023**) [[paper](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04956)]
 * Augmenting large language models with chemistry tools (**Nature Machine Intelligence, 2024**) [[paper](https://www.nature.com/articles/s42256-024-00832-8)]
 * CO2 Reduction beyond Copper-Based Catalysts: A Natural Language Processing Review from the Scientific Literature (**ACS Sustainable Chemistry & Engineering, 2024**) [[paper](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.3c06920)]
+
+## Other Related Works
