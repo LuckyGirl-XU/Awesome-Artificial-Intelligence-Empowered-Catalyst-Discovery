@@ -1,7 +1,7 @@
 # Awesome-Artificial-Intelligence-Empowered-Catalyst-Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of papers and resources about our survey paper: 
-**A Survey for AI-Empowered Catalyst Discovery: From Classical Machine Learning Approaches to Large Language Models**
+<!-- **A Survey for AI-Empowered Catalyst Discovery: From Classical Machine Learning Approaches to Large Language Models** -->
 
 ## Contents
 
