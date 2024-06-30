@@ -34,7 +34,7 @@ A curated list of papers and resources about our survey paper:
 ### <img src="./fig/star.svg" width="15" height="15" /> A Brief Summary of Related Surveys
 Table 1 in our survey paper.
 <p align="center">
-    <img src="./fig/comparison.png" width="90%" style="align:center;"/>
+    <img src="./fig/Comparison.png" width="90%" style="align:center;"/>
 </p>
 
 <a name="platforms" />
